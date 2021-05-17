@@ -24,14 +24,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/karandhingra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karandhingra" height="30" width="40" /></a>
-<a href="https://twitter.com/karandh25556071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="karandh25556071" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karan-dhingra-4bb854143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="karan-dhingra-4bb854143/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14035948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="14035948" height="30" width="40" /></a>
-<a href="https://fb.com/karan.dhingra.1297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="karan.dhingra.1297" height="30" width="40" /></a>
-<a href="https://instagram.com/karandhingra_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="karandhingra_official" height="30" width="40" /></a>
+<a href="https://twitter.com/karandh25556071" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="karandh25556071" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karan-dhingra-4bb854143/" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="karan-dhingra-4bb854143/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14035948" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/stack-overflow.svg" alt="14035948" height="30" width="40" /></a>
+<a href="https://fb.com/karan.dhingra.1297" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="karan.dhingra.1297" height="30" width="40" /></a>
+<a href="https://instagram.com/karandhingra_official" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="karandhingra_official" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/karan_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karan_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karan__dhingra__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="karan__dhingra__" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/greatkaran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="greatkaran/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPKdNUsQ13G3fjK2fi8TJgw" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="UCPKdNUsQ13G3fjK2fi8TJgw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karan__dhingra__" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="karan__dhingra__" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/greatkaran/" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="greatkaran/" height="30" width="40" /></a>
+
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
