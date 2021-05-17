@@ -33,7 +33,7 @@
 <a href="https://www.youtube.com/channel/UCPKdNUsQ13G3fjK2fi8TJgw" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="UCPKdNUsQ13G3fjK2fi8TJgw" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/karan__dhingra__" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="karan__dhingra__" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/greatkaran/" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/geeks-for-geeks.svg" alt="greatkaran/" height="30" width="40" /></a>
-
+<a href="https://letcodetogether.wordpress.com/blog/" target="blank"><img align="center" src="https://github.com/Karan-Dhingra/github-profile-readme-generator/blob/master/src/images/icons/Social/wordpress.svg" alt="https://letcodetogether.wordpress.com/blog/" height="30" width="40" /></a>
 </p>
 </p>
 
