@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> I'm Karan Dhingra</h1>
-<h3 align="center">A CSE Student from Chandigarh University, India</h3>
+<h3 align="center">Full Stack MERN Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karan-dhingra&label=Profile%20views&color=0e75b6&style=flat" alt="karan-dhingra" /> </p>
 
